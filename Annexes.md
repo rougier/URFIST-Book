@@ -1,5 +1,6 @@
-#Annexes#
+# Annexes
 
-##Annexe 1##
+## Inventaire des différentes variétés de grenouilles
 
-##Annexe 2##
+
+## Spécificités de la forêt amazonienne
