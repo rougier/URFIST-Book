@@ -8,6 +8,7 @@ En mathématiques, le théorème de la boule chevelue est un résultat de topolo
 
 ## Peigne de Dirac
 
-En mathématiques, la distribution peigne de Dirac, ou distribution cha (d'après la lettre cyrillique Ш), est une somme de distributions de Dirac espacées de T.
+En mathématiques, la distribution peigne de Dirac, ou distribution cha (d'après la lettre cyrillique Ш), est une somme de distributions de Dirac espacées de T :
+$\Cha_T(t) = $
 
 ![Boule chevelue](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/DiracComb.png/1280px-DiracComb.png)
