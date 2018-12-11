@@ -37,7 +37,7 @@ Comme un songe d'or.<br>
 <br>
 J'entends le crâne à chaque bulle<br>
 Prier et gémir :<br>
-- " Ce jeu féroce et ridicule,<br>
+" Ce jeu féroce et ridicule,<br>
 Quand doit-il finir ?<br>
 <br>
 Car ce que ta bouche cruelle<br>
