@@ -1,4 +1,4 @@
-# Chapitre 5 : 
+# Chapitre 5 : mathématiques capillotractées
 
 ## Théorème de la boule chevelue
 
