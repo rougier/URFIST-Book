@@ -20,31 +20,31 @@ PS: Alerte de dernière minute, ce livre (du moins le chapitre 1) parlerait en f
     L'amour et le crâne
 ---------------------------
 
-L'Amour est assis sur le crâne
-De l'Humanité,
-Et sur ce trône le profane,
-Au rire effronté,
-
-Souffle gaiement des bulles rondes
-Qui montent dans l'air,
-Comme pour rejoindre les mondes
-Au fond de l'éther.
-
-Le globe lumineux et frêle
-Prend un grand essor,
-Crève et crache son âme grêle
-Comme un songe d'or.
-
-J'entends le crâne à chaque bulle
-Prier et gémir :
-- " Ce jeu féroce et ridicule,
-Quand doit-il finir ?
-
-Car ce que ta bouche cruelle
-Eparpille en l'air,
-Monstre assassin, c'est ma cervelle,
-Mon sang et ma chair ! "
-
+L'Amour est assis sur le crâne<br>
+De l'Humanité,<br>
+Et sur ce trône le profane,<br>
+Au rire effronté,<br>
+<br>
+Souffle gaiement des bulles rondes<br>
+Qui montent dans l'air,<br>
+Comme pour rejoindre les mondes<br>
+Au fond de l'éther.<br>
+<br>
+Le globe lumineux et frêle<br>
+Prend un grand essor,<br>
+Crève et crache son âme grêle<br>
+Comme un songe d'or.<br>
+<br>
+J'entends le crâne à chaque bulle<br>
+Prier et gémir :<br>
+- " Ce jeu féroce et ridicule,<br>
+Quand doit-il finir ?<br>
+<br>
+Car ce que ta bouche cruelle<br>
+Eparpille en l'air,<br>
+Monstre assassin, c'est ma cervelle,<br>
+Mon sang et ma chair ! "<br>
+<br>
 - C.B -
 
 ***************************************************
